@@ -1,3 +1,7 @@
+# ------------------------
+# Author: Leila Suasnabar
+# ------------------------
+
 import sys
 from copy import deepcopy
 
